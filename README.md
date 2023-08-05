@@ -1,4 +1,4 @@
-# INVENTORY BARANG DISTRIBUTOR <br/>
+# INVENTORY BARANG GUDANG DISTRIBUTOR <br/>
 ## Source Code<br/>
 
 ### Website yang digunakan menggunakan
