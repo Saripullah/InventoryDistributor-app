@@ -4,7 +4,7 @@
 ### Aplikasi ini dibuat menggunakan
 - Codeigniter 3
 - Bootstrap 4
-- 3 Akses ( Suvervisor, Admin, Gudang )
+- 3 Akses User ( Supervisor, Admin, Gudang )
 - Datatables
 - Chart.js
 
